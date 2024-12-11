@@ -19,13 +19,7 @@ Motivé par les défis techniques et l'apprentissage constant, mes points forts 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&link=https://reactjs.org/)
 ![GSAP](https://img.shields.io/badge/GSAP-88CC00?style=flat-square&logo=greensock&link=https://greensock.com/gsap/)
 
-
-## 🛠️ Compétences  
-- **Front-end :** HTML, CSS, JavaScript, Sass, Tailwind CSS  
-- **Back-end :** Node.js, PHP, MySQL  
-- **Outils & Technologies :** Git, Postman, VS Code, Laragon, Figma, WordPress  
-- **Actuellement en apprentissage :** React, GSAP  
-
+ 
 ## 🌐 Contact  
 - **Email :** anasbounabat@gmail.com  
 - **LinkedIn :** [Anas Bounabat](https://www.linkedin.com/in/anas-bounabat/)
