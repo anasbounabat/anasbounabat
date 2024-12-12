@@ -1,4 +1,4 @@
-# 👋 Bienvenue sur mon profil GitHub !  
+# 👨‍💻 Bienvenue dans mon espace de code !
 
 Passionné par le développement web et les technologies innovantes, je suis un développeur avec des compétences solides en **HTML**, **CSS**, **JavaScript**, et une spécialisation en **développement back-end** (Node.js, MySQL).  
 Motivé par les défis techniques et l'apprentissage constant, mes points forts incluent la résolution de problèmes complexes, l'apprentissage rapide et la création de solutions innovantes. 🚀 Toujours prêt à évoluer et à relever de nouveaux défis ! 🌐
